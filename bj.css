@@ -1,0 +1,28 @@
+body {
+    /* background-image:url("table.png") ; */
+    /* background-size: cover; */
+    border-image: auto;
+    background-color:aquamarine ;
+    text-align: center;
+    border: 2px solid ;
+    padding: 20px 40px;
+    height:fit-content;
+    width: fit-content;
+}
+
+button {
+    margin: 4px;
+    font-size: strong;
+    background-color: black;
+    border-style:hidden;
+    border-radius: 25px;
+    color: azure;
+    padding: 15px;
+    size: 37px;
+    font-weight: bold;
+}
+
+/* .content {
+    width: 500px;
+    margin:auto; 
+} */
